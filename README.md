@@ -1,4 +1,4 @@
-##👋 Hello my name is Henrique and i study Information Systems in Mackenzie Presbyterian University and i'm working as iOS Developer
+## Hello 👋 my name is Henrique and i study Information Systems in Mackenzie Presbyterian University and i'm working as iOS Developer
 
 
 Here are some projects i worked on:
