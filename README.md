@@ -33,3 +33,22 @@ Eu também fiz o design para esse aplicativo usando o Figma.
 
 ![Group 636](https://github.com/user-attachments/assets/aec08c2a-c5b5-4080-80c7-de592efc8710)
 
+## Mar de Calculos
+Mar de Calculos é um jogo sério criado para auxiliar o aprendizado de matemática para jovens adultos.
+
+**🔨Tecnologias: SpriteKit e SwiftUI.**
+
+**Plataforma: iPhone**
+
+![Group 73](https://github.com/user-attachments/assets/2bb4f99e-f3f7-45fb-a835-aab1df6f241f)
+
+## Rotú
+[Rotú](https://apps.apple.com/br/app/rotú/id6469359746) é um aplicativo criado para auxiliar deficientes visuais utilizando a câmera do dispositivo, o aplicativo identifica por meio de Inteligencia Artificial o alto teor de açúcares adicionados, gorduras e/ou sódio em embalagens. Criado para oferecer maior independência a deficientes visuais.
+
+**🔨Tecnologias: SwiftUI, CoreML e Acessibilidade.**
+
+**Plataforma: iPhone**
+
+![App Icon (1)](https://github.com/user-attachments/assets/c5b909d7-5842-4364-aa76-ec025c720389)
+
+
