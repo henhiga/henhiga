@@ -1,7 +1,7 @@
-### Hello 👋 my name is Henrique and i study Information Systems in Mackenzie Presbyterian University and i'm working as iOS Developer
+### Olá 👋 meu nome é Henrique, eu estudo Sistemas de Informação na Universidade Presbiteriana Mackenzie e estou trabalhando como iOS Developer.
 
+Aqui estão alguns projetos que desenvolvi:
 
-Here are some projects i worked on:
 
 ## Pashion
 [Pashion](https://apps.apple.com/br/app/pashion/id6737167821) é um app de criação de seus documentos de moda em um só lugar, explorando ferramentas de desenho, moodboard e ficha técnica.
