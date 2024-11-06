@@ -1,4 +1,4 @@
-### Olá 👋 meu nome é Henrique, eu estudo Sistemas de Informação na Universidade Presbiteriana Mackenzie e estou trabalhando como iOS Developer.
+### Olá 👋 meu nome é Henrique, sou estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie e estou trabalhando como iOS Developer.
 
 Aqui estão alguns projetos que desenvolvi:
 
