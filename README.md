@@ -16,7 +16,7 @@ Otimize seus processos adicionado projetos em coleções no próprio app.
 
 ## Tinted
 [Tinted](https://apps.apple.com/br/app/tinted/id6503091148) é um app de recomendações de cores para o seu outfit, escolha uma cor para o seu look e descubra combinações incríveis para o seu visual!
-Eu também fiz o design para esse aplicativo usando o Figma.
+Eu também fiz o Design UI/UX do app usando o Figma.
 
 **🔨Tecnologias: UIKit, Core Data and MVVM.**
 
@@ -51,4 +51,12 @@ Mar de Calculos é um jogo sério criado para auxiliar o aprendizado de matemát
 
 ![App Icon (1)](https://github.com/user-attachments/assets/c5b909d7-5842-4364-aa76-ec025c720389)
 
+## MackRide
+MackRide é um aplicativo criado para auxiliar estudantes do Mackenzie a acharem e compartilharem caronas para o Mackenzie.
+Eu também fiz o Design UI/UX do app usando o Figma.
 
+**🔨Tecnologias: SwiftUI e MVC.**
+
+**Plataforma: iPhone**
+
+![home dark](https://github.com/user-attachments/assets/6aace616-2d56-4118-93cc-c590e881ffae)
