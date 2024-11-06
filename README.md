@@ -9,7 +9,7 @@ Otimize seus processos adicionado projetos em coleções no próprio app.
 
 **🔨Tecnologias: SwiftUI, UIKit, Core Data, MVVM, Custom Fonts and PhotosUI.**
 
-**Plataforma: iPad
+**Plataforma: iPad**
 
 ![Marca Dark](https://github.com/user-attachments/assets/b5f7f388-539a-4e6b-acd9-270d656f10d4)
 
@@ -20,7 +20,7 @@ Eu também fiz o design para esse aplicativo usando o Figma.
 
 **🔨Tecnologias: UIKit, Core Data and MVVM.**
 
-**Plataforma: iPhone
+**Plataforma: iPhone**
 
 ![Frame 4 (4) 2](https://github.com/user-attachments/assets/6b2bfb6a-c35c-4b73-ba08-6c2a68a66e92)
 
@@ -29,7 +29,7 @@ Eu também fiz o design para esse aplicativo usando o Figma.
 
 **🔨Tecnologias: SwiftUI, SwiftData and MVVM.**
 
-**Plataforma: iPhone & iPad
+**Plataforma: iPhone & iPad**
 
 ![Group 636](https://github.com/user-attachments/assets/aec08c2a-c5b5-4080-80c7-de592efc8710)
 
