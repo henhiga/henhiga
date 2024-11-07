@@ -18,7 +18,7 @@ Otimize seus processos adicionado projetos em coleções no próprio app.
 [Tinted](https://apps.apple.com/br/app/tinted/id6503091148) é um app de recomendações de cores para o seu outfit, escolha uma cor para o seu look e descubra combinações incríveis para o seu visual!
 Eu também fiz o Design UI/UX do app usando o Figma.
 
-**🔨Tecnologias: UIKit, Core Data and MVVM.**
+**🔨Tecnologias: UIKit, Core Data, MVVM e Unit Testing.**
 
 **Plataforma: iPhone**
 
