@@ -7,7 +7,7 @@ Aqui estão alguns projetos que desenvolvi:
 [Pashion](https://apps.apple.com/br/app/pashion/id6737167821) é um app de criação de seus documentos de moda em um só lugar, explorando ferramentas de desenho, moodboard e ficha técnica.
 Otimize seus processos adicionado projetos em coleções no próprio app.
 
-**🔨Tecnologias: SwiftUI, UIKit, Core Data, MVVM, Custom Fonts and PhotosUI.**
+**🔨Tecnologias: SwiftUI, UIKit, Core Data, MVVM, Custom Fonts, PhotosUI and UI Testing.**
 
 **Plataforma: iPad**
 
