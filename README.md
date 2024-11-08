@@ -1,9 +1,7 @@
 ### Olá 👋 meu nome é Henrique, sou estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie e estou trabalhando como iOS Developer.
-Sou desenvolvedor na Apple Developer Academy | Mackenzie, onde passei dois anos me especializando em SwiftUI e UIKit. Meu foco principal era resolver problemas e desenvolver soluções inovadoras.
-
+**Sou desenvolvedor na Apple Developer Academy | Mackenzie, onde passei dois anos me especializando em SwiftUI e UIKit. Meu foco principal era resolver problemas e desenvolver soluções inovadoras.
 Também projetei e desenvolvi vários projetos de aplicativos pessoais, utilizando ferramentas como o Figma para design UI/UX e seguindo as melhores práticas do HIG (Human Interface Guidelines).
-
-Sempre entusiasmado para aprender novas tecnologias.
+Sempre entusiasmado para aprender novas tecnologias.**
 
 Aqui estão alguns projetos que desenvolvi:
 
