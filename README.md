@@ -3,7 +3,7 @@
 - Também projetei e desenvolvi vários projetos de aplicativos pessoais, utilizando ferramentas como o Figma para design UI/UX e seguindo as melhores práticas do HIG (Human Interface Guidelines).
 - Sempre entusiasmado para aprender novas tecnologias.
 
-[![](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](https://henrihiga@gmail.com) [![](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquekenzohiga/)
+[![](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunde@adobe.com) [![](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquekenzohiga/)
 
 
 Aqui estão alguns projetos que desenvolvi:
